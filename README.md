@@ -10,3 +10,6 @@ For more details about the study can be found <a href="https://ieeexplore.ieee.o
 
 ## Objective
 The objective of this study was to develop a predicitive model to estimate UPDRS from the extracted features of the speech signal. 
+
+
+<a href="https://github.com/elyas-shas/ParkinsonsDiseaseProgress-Estimation/blob/main/Parkinson_v1.ipynb"> Click here to view the full notebook</a>
